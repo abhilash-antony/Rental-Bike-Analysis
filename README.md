@@ -20,7 +20,8 @@ This project focuses on analyzing the bike usage patterns of Cyclistic, a bike-s
 ## Project Files
 
 - **Cyclistic_Report.pdf**: Detailed report of the analysis and findings.
-- **Data**: Folder containing the dataset used for analysis.
+- **Data**: Click [here](https://divvy-tripdata.s3.amazonaws.com/index.html) for the Data
+
 - **Cyclistic.ipynb**: Python scripts for data processing, analysis, and visualization.
 
 ## Conclusion
